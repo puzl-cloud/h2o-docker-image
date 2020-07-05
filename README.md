@@ -1,4 +1,4 @@
-H2O is a fully open source, distributed in-memory machine learning platform with linear scalability. Used by puzl.ee Kubernetes cloud provider.
+H2O is a fully open source, distributed in-memory machine learning platform with linear scalability. Non-root Docker image with CUDA, used by [puzl.ee](https://puzl.ee) Kubernetes cloud provider. 
 
 #### Build:
 
